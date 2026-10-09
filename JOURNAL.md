@@ -10,16 +10,36 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.02h | 1 |
+| Week 1 | Tier 1 | 1.35h | 1 |
 
 ## Contents
 
-1. [2026-10-09 – Work session](#2026-10-09-work-session)
+1. [2026-10-09 – # October 9 - Halfway there!](#2026-10-09-october-9---halfway-there)
 
 ## Design
 
-### 2026-10-09 – Work session
+### 2026-10-09 – # October 9 - Halfway there!
 
-**1.02h**
+**1.35h**
+
+# October 9 - Halfway there!
+
+I followed the Starbie guide to create this project!
+
+So far, I've made the schematic (easiest part) and I routed the PCB, doing both using KiCad. It is a beginning project so I haven't had that much struggle so far. I only had issues with the footnotes, just because I didn't realize that I was importing a footnote from another folder (imagine my frustration during 10 minutes of not finding it lol).
+
+Instead of following the PCB cut from the guide, I decided to make it more basic. One of the sides of the PCB is horizontal for the ESP32 USB to pop out, and it sort of looks like the star is leaping.
+
+**Progress so far: PCB and Schematic**
+
+![Screenshot 2026-10-09 101527](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/oeMJ7H4DVeTGiz0jiitbnzFkEYwIzdC8/53354d7358133675ce4a0b15d90b1cfae367821fd433569febe228e7c2c5b02b.png)
+
+![Screenshot 2026-10-09 101541](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/oeMJ7H4DVeTGiz0jiitbnzFkEYwIzdC8/d0c6b4579f8ee3c1910142d8df5d16f43a86fe9582f6fb3c036706fdeed637c3.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/667db511-9b2a-4f7d-9f66-bca033ab63cb/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/a5abaf11-bdfd-423d-bffb-199e32f40638/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/38e4e99b-941e-4916-8178-a2726f4d357b/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/57c27fb1-15dd-4f22-adcc-cee245385f21/video.mp4)
