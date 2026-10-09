@@ -28,6 +28,8 @@ I followed the Starbie guide to create this project!
 
 So far, I've made the schematic (easiest part) and I routed the PCB, doing both using KiCad. It is a beginning project so I haven't had that much struggle so far. I only had issues with the footnotes, just because I didn't realize that I was importing a footnote from another folder (imagine my frustration during 10 minutes of not finding it lol).
 
+I started earlier this morning using the Starbie guide for my project.
+
 Instead of following the PCB cut from the guide, I decided to make it more basic. One of the sides of the PCB is horizontal for the ESP32 USB to pop out, and it sort of looks like the star is leaping.
 
 **Progress so far: PCB and Schematic**
